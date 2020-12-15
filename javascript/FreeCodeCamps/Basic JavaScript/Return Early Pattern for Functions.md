@@ -23,6 +23,7 @@ The above outputs `"Hello"` to the console, returns `"World"`, but
 
 ## Hint
  - Remember that `undefined` is a keyword, not a `string`.
+ you can also return a keyword.
 
 ### Before
 
